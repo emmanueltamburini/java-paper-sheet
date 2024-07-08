@@ -1,0 +1,34 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(úÄóúÿÿÿÿ8¥ŞÏÜˆ2
+G	java:S106"+Replace this use of System.out by a logger.(»ˆÅï8¦ŞÏÜˆ2
+G	java:S106"+Replace this use of System.out by a logger.(Àµ‰Õ8¦ŞÏÜˆ2
+L	java:S106"+Replace this use of System.out by a logger.(Ò±¿şÿÿÿÿ8¦ŞÏÜˆ2
+G	java:S106"+Replace this use of System.out by a logger.(œ„Ò8¦ŞÏÜˆ2
+G	java:S106"+Replace this use of System.out by a logger.(¨í¼ç8¦ŞÏÜˆ2
+C
+java:S2129"!Remove this "Integer" constructor(–‡²şıÿÿÿÿ8©ŞÏÜˆ2
+j
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(–‡²şıÿÿÿÿ8ªŞÏÜˆ2
+G	java:S106"+Replace this use of System.out by a logger.(œ»…ˆ8ªŞÏÜˆ2
+G	java:S106"+Replace this use of System.out by a logger.(É¸µ 8«ŞÏÜˆ2
+L	java:S106"+Replace this use of System.out by a logger.(šŒØ£ÿÿÿÿÿ8«ŞÏÜˆ2
+L	java:S106"+Replace this use of System.out by a logger.(Ø«½¯úÿÿÿÿ8«ŞÏÜˆ2
+L	java:S106 "+Replace this use of System.out by a logger.(ÜØ‘êÿÿÿÿÿ8«ŞÏÜˆ2
+G	java:S106!"+Replace this use of System.out by a logger.(¨•±ï8«ŞÏÜˆ2
+L	java:S106("+Replace this use of System.out by a logger.(”ëÂÿÿÿÿÿ8¬ŞÏÜˆ2
+G	java:S106,"+Replace this use of System.out by a logger.(Í×Õ8­ŞÏÜˆ2
+G	java:S106-"+Replace this use of System.out by a logger.(Ñ§Åğ8­ŞÏÜˆ2
+G	java:S106."+Replace this use of System.out by a logger.(¿Û¢8­ŞÏÜˆ2
+F	java:S106/"+Replace this use of System.out by a logger.(–àä8­ŞÏÜˆ2
+G	java:S1060"+Replace this use of System.out by a logger.(ºµš·8­ŞÏÜˆ2
+e
+java:S21332"CRemove this object instantiation and use "TestClass.class" instead.(ÙúË…ıÿÿÿÿ8®ŞÏÜˆ2
+L	java:S1066"+Replace this use of System.out by a logger.(úø‚üúÿÿÿÿ8¯ŞÏÜˆ2
+L	java:S106="+Replace this use of System.out by a logger.(†à®Æûÿÿÿÿ8¯ŞÏÜˆ2
+L	java:S106>"+Replace this use of System.out by a logger.(À‘üşÿÿÿÿ8°ŞÏÜˆ2
+G	java:S106?"+Replace this use of System.out by a logger.(½‹öĞ8°ŞÏÜˆ2
+G	java:S106@"+Replace this use of System.out by a logger.(ÿ¹©î8°ŞÏÜˆ2
+L	java:S106A"+Replace this use of System.out by a logger.(—âûÿÿÿÿ8°ŞÏÜˆ2
+F	java:S106C"+Replace this use of System.out by a logger.(±±°l8°ŞÏÜˆ2
+G	java:S106D"+Replace this use of System.out by a logger.(ÿ£üã8°ŞÏÜˆ2
+G	java:S106E"+Replace this use of System.out by a logger.(±é‘Ì8°ŞÏÜˆ2

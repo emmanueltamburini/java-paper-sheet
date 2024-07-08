@@ -1,0 +1,73 @@
+
+j
+java:S2095|"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(‡˜ä8ÎüÔÕˆ2
+j
+java:S2095j"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(´ñÇõ8ÎüÔÕˆ2
+m	java:S106
+"+Replace this use of System.out by a logger.(í˜Ã8á‘ÈÕˆ2J$3f2a52df-487b-4aed-8fcb-fedd914dfef9
+m	java:S106"+Replace this use of System.out by a logger.(ƒ·¥í8ú‘ÈÕˆ2J$68776efe-5534-4ff5-a61d-511d9fe0f302
+r	java:S106"+Replace this use of System.out by a logger.(æĞ¶‹úÿÿÿÿ8ú‘ÈÕˆ2J$d0f0d8c2-cd7c-489d-be01-a07f93fd3b74
+r	java:S106"+Replace this use of System.out by a logger.(ÏÕ¾İÿÿÿÿÿ8û‘ÈÕˆ2J$4a35c669-cae5-49c6-8978-69b99b30e959
+G	java:S106"+Replace this use of System.out by a logger.(ˆ¾‚À8ÔüÔÕˆ2
+I
+java:S1602",Remove useless curly braces around statement(®Ì»ê8ÕüÔÕˆ2
+L	java:S106"+Replace this use of System.out by a logger.(À…ûÇıÿÿÿÿ8ÖüÔÕˆ2
+{
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8×üÔÕˆ2
+G	java:S106)"+Replace this use of System.out by a logger.(²™“Ä8×üÔÕˆ2
+G	java:S106*"+Replace this use of System.out by a logger.(†‹²“8ØüÔÕˆ2
+G	java:S106+"+Replace this use of System.out by a logger.(˜·óÚ8ØüÔÕˆ2
+G	java:S106,"+Replace this use of System.out by a logger.(½¹ö8ØüÔÕˆ2
+L	java:S106."+Replace this use of System.out by a logger.(ğÀ£€ÿÿÿÿÿ8ØüÔÕˆ2
+L	java:S1063"+Replace this use of System.out by a logger.(Šíõèıÿÿÿÿ8ÙüÔÕˆ2
+L	java:S1064"+Replace this use of System.out by a logger.(–Àœıÿÿÿÿ8ÙüÔÕˆ2
+G	java:S1065"+Replace this use of System.out by a logger.(ß‰ËĞ8ÙüÔÕˆ2
+L	java:S1066"+Replace this use of System.out by a logger.(·ÚÖËÿÿÿÿÿ8ÙüÔÕˆ2
+{
+java:S2142E"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÚüÔÕˆ2
+L	java:S106H"+Replace this use of System.out by a logger.(ÂÃâìüÿÿÿÿ8ÚüÔÕˆ2
+G	java:S106L"+Replace this use of System.out by a logger.(ùøøµ8ÛüÔÕˆ2
+F	java:S106M"+Replace this use of System.out by a logger.(¨šâJ8ÛüÔÕˆ2
+L	java:S106N"+Replace this use of System.out by a logger.(²‰ıËùÿÿÿÿ8ÜüÔÕˆ2
+L	java:S106O"+Replace this use of System.out by a logger.(†àìöüÿÿÿÿ8ÜüÔÕˆ2
+{
+java:S2142^"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÜüÔÕˆ2
+G	java:S106a"+Replace this use of System.out by a logger.(êÆ¤…8İüÔÕˆ2
+G	java:S106e"+Replace this use of System.out by a logger.(Ñ£§’8ŞüÔÕˆ2
+G	java:S106f"+Replace this use of System.out by a logger.(ñâõ¢8ŞüÔÕˆ2
+G	java:S106g"+Replace this use of System.out by a logger.(ğ®¦8ŞüÔÕˆ2
+G	java:S106h"+Replace this use of System.out by a logger.(¥ØË8ŞüÔÕˆ2
+L	java:S106l"+Replace this use of System.out by a logger.(¢ö¶ùÿÿÿÿ8ßüÔÕˆ2
+{
+java:S2142q"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ßüÔÕˆ2
+G	java:S106w"+Replace this use of System.out by a logger.(¦…ğ…8àüÔÕˆ2
+L	java:S106x"+Replace this use of System.out by a logger.(à´¼¬ÿÿÿÿÿ8àüÔÕˆ2
+L	java:S106y"+Replace this use of System.out by a logger.(ÓÏàşÿÿÿÿ8àüÔÕˆ2
+L	java:S106z"+Replace this use of System.out by a logger.(¹ƒ¿ûÿÿÿÿ8àüÔÕˆ2
+|
+java:S2142ƒ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(üŸ´Â8áüÔÕˆ2
+M	java:S106‚"+Replace this use of System.out by a logger.(óÍÄüÿÿÿÿ8áüÔÕˆ2
+H	java:S106Š"+Replace this use of System.out by a logger.(‡··Š8âüÔÕˆ2
+M	java:S106‹"+Replace this use of System.out by a logger.(öÊ€ºùÿÿÿÿ8ãüÔÕˆ2
+H	java:S106Œ"+Replace this use of System.out by a logger.(Æûí8ãüÔÕˆ2
+M	java:S106"+Replace this use of System.out by a logger.(ÑÉÛßşÿÿÿÿ8ãüÔÕˆ2
+|
+java:S2142œ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8åüÔÕˆ2
+M	java:S106Ÿ"+Replace this use of System.out by a logger.(ãıŒˆúÿÿÿÿ8åüÔÕˆ2
+H	java:S106£"+Replace this use of System.out by a logger.(ÈõÎ»8æüÔÕˆ2
+M	java:S106¤"+Replace this use of System.out by a logger.(ŞŸµàüÿÿÿÿ8æüÔÕˆ2
+M	java:S106¥"+Replace this use of System.out by a logger.(ëµÕÕøÿÿÿÿ8æüÔÕˆ2
+M	java:S106¦"+Replace this use of System.out by a logger.(‚ÂŒïøÿÿÿÿ8æüÔÕˆ2
+M	java:S106«"+Replace this use of System.out by a logger.(–Ïêûøÿÿÿÿ8çüÔÕˆ2
+|
+java:S2142²"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8çüÔÕˆ2
+H	java:S106±"+Replace this use of System.out by a logger.(†÷¿Ø8çüÔÕˆ2
+H	java:S106¸"+Replace this use of System.out by a logger.(áˆøù8èüÔÕˆ2
+M	java:S106¹"+Replace this use of System.out by a logger.(âæıÿÿÿÿÿ8éüÔÕˆ2
+H	java:S106º"+Replace this use of System.out by a logger.(í’âÕ8éüÔÕˆ2
+M	java:S106»"+Replace this use of System.out by a logger.(ªüĞíúÿÿÿÿ8éüÔÕˆ2
+H	java:S106½"+Replace this use of System.out by a logger.(œ¶Øš8éüÔÕˆ2
+§
+java:S2142Ä"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÿÑ¨çıÿÿÿÿ8ú‘ÈÕˆ2J$5d93060d-654d-4c88-8a06-f88842fe8501
+H	java:S106Á"+Replace this use of System.out by a logger.(¯ìÂ°8êüÔÕˆ2
+H	java:S106Ã"+Replace this use of System.out by a logger.(Ş±Ğò8ëüÔÕˆ2

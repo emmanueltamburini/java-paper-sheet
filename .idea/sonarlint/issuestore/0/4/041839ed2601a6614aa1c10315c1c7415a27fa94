@@ -1,0 +1,42 @@
+
+—
+java:S2095c"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¾Å¨Îûÿÿÿÿ8äšÍÜˆ2J$cbecb682-4bc4-406b-9ad9-c713b829a9b8
+‹
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(­ÙÉ¿8äšÍÜˆ2J$4f467ec3-0049-45be-abc1-7f04a97dcb79
+‘
+java:S2095\"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ø¤îû8äšÍÜˆ2J$5d7cfeb0-cf32-4fb9-9572-49245fa201cf
+
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(µ…çÍÿÿÿÿÿ8äšÍÜˆ2J$a3e20e7c-2821-4a81-b791-fc3cdeec4345
+•
+java:S2095b"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Şºç†şÿÿÿÿ8äšÍÜˆ2J$884eb50b-5345-45fc-af7c-28cda606fc10
+”
+java:S20954"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¥¥Õßıÿÿÿÿ8äšÍÜˆ2J$874a187f-fd23-4f68-81fe-66067c5b059c
+”
+java:S20950"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(¼¤”Çûÿÿÿÿ8äšÍÜˆ2J$b4913670-fc3a-4b86-b15e-1ffb028f94ce
+˜
+java:S2095]"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ˆÔ§ğşÿÿÿÿ8äšÍÜˆ2J$19ed0b56-70e8-4fb9-9ea1-f7340266257b
+r	java:S106	"+Replace this use of System.out by a logger.(ºôïºşÿÿÿÿ8çšÍÜˆ2J$c37c96e6-1d2f-48e1-afbd-aac77642021f
+r	java:S106"+Replace this use of System.out by a logger.(Üƒò®üÿÿÿÿ8èšÍÜˆ2J$f5ded517-2880-4b5e-9725-0948cb117ecb
+r	java:S106"+Replace this use of System.out by a logger.(úÓë¶ûÿÿÿÿ8èšÍÜˆ2J$52586eb4-1136-4e5a-a5c8-b29c387b9007
+m	java:S106"+Replace this use of System.out by a logger.(€ôòà8èšÍÜˆ2J$4d083788-6cf4-48ac-8599-844f7f057ea2
+m	java:S106"+Replace this use of System.out by a logger.(Õ§³ş8èšÍÜˆ2J$09af9db5-5712-4838-9fa3-0a2048d3f128
+m	java:S106"+Replace this use of System.out by a logger.(ÀÚâ°8éšÍÜˆ2J$283d0912-3f45-4311-8460-01cb321622d8
+r	java:S106 "+Replace this use of System.out by a logger.(‚ÀÏŒúÿÿÿÿ8êšÍÜˆ2J$c9fb5b86-73c8-4424-b7d4-d85025623d6d
+r	java:S106)"+Replace this use of System.out by a logger.(œ‡•™ùÿÿÿÿ8ëšÍÜˆ2J$8079a69a-7e75-4f4c-b0eb-e7b7ebfdd04d
+r	java:S106*"+Replace this use of System.out by a logger.(²å¹òøÿÿÿÿ8ëšÍÜˆ2J$8d6cd6a7-06da-46da-8259-9564c13a74c1
+m	java:S106+"+Replace this use of System.out by a logger.(í­Ğ8ëšÍÜˆ2J$30d4cbf6-8216-4701-a0cd-5bf6b790aaed
+m	java:S106,"+Replace this use of System.out by a logger.(ëƒÃÏ8ëšÍÜˆ2J$53f6332e-dab3-4cd3-a285-3953a08254e3
+r	java:S106-"+Replace this use of System.out by a logger.(ÑÍÉ—ÿÿÿÿÿ8ìšÍÜˆ2J$abe24305-1023-44f5-bace-efc0c9d43953
+r	java:S1067"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8íšÍÜˆ2J$f4b39246-07c6-41f9-ae3a-b70e3cbc0568
+l	java:S106@"+Replace this use of System.out by a logger.(ŸĞÄ8íšÍÜˆ2J$0361a9ae-800a-41bc-85d4-7a2b1e50d6e5
+r	java:S106A"+Replace this use of System.out by a logger.(ëú›³ÿÿÿÿÿ8íšÍÜˆ2J$3b3a014e-8e26-4b08-9981-a4fc98da260f
+r	java:S106B"+Replace this use of System.out by a logger.(ÒÂîïúÿÿÿÿ8íšÍÜˆ2J$a86ed422-95cb-4c3a-bde9-904c19ccd08a
+m	java:S106C"+Replace this use of System.out by a logger.(–÷ƒ½8îšÍÜˆ2J$2acd93dc-37d2-4f58-864f-d038ddfbe710
+r	java:S106D"+Replace this use of System.out by a logger.(£ÃÎÕüÿÿÿÿ8îšÍÜˆ2J$58f524c4-ffa1-4021-aa28-6144fe842499
+r	java:S106L"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8îšÍÜˆ2J$ad94c410-abc1-4779-b534-ecc478d8680a
+m	java:S106T"+Replace this use of System.out by a logger.(ˆïñ€8ïšÍÜˆ2J$71488f8c-917e-4cf8-aaa9-d67842d1e4f1
+r	java:S106U"+Replace this use of System.out by a logger.(î¬‹üÿÿÿÿ8ïšÍÜˆ2J$00103435-e414-4894-b138-8c73ce83b9db
+m	java:S106V"+Replace this use of System.out by a logger.(—À‡Ş8ïšÍÜˆ2J$023247da-1224-4738-a666-b4b0c749b14f
+r	java:S106W"+Replace this use of System.out by a logger.(¬¢õœøÿÿÿÿ8ïšÍÜˆ2J$5473fc22-1713-4703-9eca-40a17012e6fe
+r	java:S106X"+Replace this use of System.out by a logger.(èƒÑ³úÿÿÿÿ8ïšÍÜˆ2J$6463109c-c0f5-443f-bfce-9ca4fbc0dd00
+r	java:S106h"+Replace this use of System.out by a logger.(¥ï·ÿÿÿÿÿ8óšÍÜˆ2J$55b023a8-0db0-40da-a73b-193f6db28adb

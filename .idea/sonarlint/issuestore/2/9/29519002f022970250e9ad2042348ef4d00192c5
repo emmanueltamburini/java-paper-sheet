@@ -1,0 +1,36 @@
+
+|
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Î®œ™üÿÿÿÿ8¶¼ÓÖˆ2
+G	java:S106"+Replace this use of System.out by a logger.(ëÜó8Æ¼ÓÖˆ2
+G	java:S106"+Replace this use of System.out by a logger.(õı®·8Ç¼ÓÖˆ2
+G	java:S106"+Replace this use of System.out by a logger.(îşå8Ç¼ÓÖˆ2
+F	java:S106"+Replace this use of System.out by a logger.(ˆÚ¾g8Ç¼ÓÖˆ2
+G	java:S106"+Replace this use of System.out by a logger.(»Š¸8Ç¼ÓÖˆ2
+L	java:S106"+Replace this use of System.out by a logger.(Ğíƒôúÿÿÿÿ8È¼ÓÖˆ2
+G	java:S106"+Replace this use of System.out by a logger.(Ïßô¾8È¼ÓÖˆ2
+G	java:S106"+Replace this use of System.out by a logger.(œú‘œ8È¼ÓÖˆ2
+G	java:S106"+Replace this use of System.out by a logger.(Ÿë÷µ8È¼ÓÖˆ2
+L	java:S106"+Replace this use of System.out by a logger.(Æ›ªÃıÿÿÿÿ8È¼ÓÖˆ2
+L	java:S106 "+Replace this use of System.out by a logger.(Ÿ­†ûÿÿÿÿ8É¼ÓÖˆ2
+L	java:S106!"+Replace this use of System.out by a logger.(°ÑñÒşÿÿÿÿ8É¼ÓÖˆ2
+L	java:S106+"+Replace this use of System.out by a logger.(ÃÖ›ûÿÿÿÿ8É¼ÓÖˆ2
+L	java:S106,"+Replace this use of System.out by a logger.(™¿ÿ ûÿÿÿÿ8É¼ÓÖˆ2
+L	java:S106-"+Replace this use of System.out by a logger.(À¥öšùÿÿÿÿ8Ê¼ÓÖˆ2
+L	java:S106."+Replace this use of System.out by a logger.(…ÿÊÿÿÿÿÿ8Ê¼ÓÖˆ2
+G	java:S106/"+Replace this use of System.out by a logger.(Ëõª8Ê¼ÓÖˆ2
+L	java:S106<"+Replace this use of System.out by a logger.(Ğ¤¯“úÿÿÿÿ8Ë¼ÓÖˆ2
+G	java:S106="+Replace this use of System.out by a logger.(¶áØä8Ë¼ÓÖˆ2
+L	java:S106>"+Replace this use of System.out by a logger.(›ì‰½ÿÿÿÿÿ8Ë¼ÓÖˆ2
+G	java:S106?"+Replace this use of System.out by a logger.(¹ÄÑ™8Ë¼ÓÖˆ2
+G	java:S106@"+Replace this use of System.out by a logger.(¸ç·º8Ë¼ÓÖˆ2
+L	java:S106d"+Replace this use of System.out by a logger.(ÚÉåÿıÿÿÿÿ8Ğ¼ÓÖˆ2
+G	java:S106k"+Replace this use of System.out by a logger.(Óæ†ª8Ñ¼ÓÖˆ2
+G	java:S106‹"+Replace this use of System.out by a logger.(ÕŒ’'8Ò¼ÓÖˆ2
+q
+java:S1450"SRemove the "news" field and declare it as a local variable in the relevant methods.(ª—ƒµ8Ô¼ÓÖˆ2
+M	java:S106±"+Replace this use of System.out by a logger.(êãÈıÿÿÿÿ8×¼ÓÖˆ2
+H	java:S106¾"+Replace this use of System.out by a logger.(…«Á“8Ø¼ÓÖˆ2
+F
+java:S1068"(Remove this unused "news" private field.(ª—ƒµ8Ş¼ÓÖˆ2
+F
+java:S1068Ã"(Remove this unused "name" private field.(Ë¥¼8Ş¼ÓÖˆ2

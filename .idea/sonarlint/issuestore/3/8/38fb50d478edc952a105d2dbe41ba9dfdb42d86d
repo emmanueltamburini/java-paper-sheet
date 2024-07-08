@@ -1,0 +1,33 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(¯«®Ş8¸°Öˆ2
+F	java:S106"+Replace this use of System.out by a logger.(èö³b8¸°Öˆ2
+F	java:S106"+Replace this use of System.out by a logger.(ØÚ»!8¸°Öˆ2
+L	java:S106"+Replace this use of System.out by a logger.(—††…şÿÿÿÿ8¸°Öˆ2
+L	java:S106"+Replace this use of System.out by a logger.(¨‡†èùÿÿÿÿ8¸°Öˆ2
+L	java:S106"+Replace this use of System.out by a logger.(ÀÓšæûÿÿÿÿ8¸°Öˆ2
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ºÀ³Á8¡¸°Öˆ2
+G	java:S106"+Replace this use of System.out by a logger.(ºÀ³Á8¡¸°Öˆ2
+L	java:S106"+Replace this use of System.out by a logger.(Æ°ü¶ùÿÿÿÿ8¢¸°Öˆ2
+G	java:S106 "+Replace this use of System.out by a logger.(ÛÇè®8¢¸°Öˆ2
+G	java:S106!"+Replace this use of System.out by a logger.(‹¹±¥8¢¸°Öˆ2
+L	java:S106""+Replace this use of System.out by a logger.(êÆÙ¹ıÿÿÿÿ8¢¸°Öˆ2
+G	java:S106#"+Replace this use of System.out by a logger.(°Š‚­8¢¸°Öˆ2
+x
+java:S4276%"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(à˜òæ8¤¸°Öˆ2
+G	java:S106&"+Replace this use of System.out by a logger.(áÆÂÍ8¦¸°Öˆ2
+G	java:S106*"+Replace this use of System.out by a logger.(š‹çÄ8§¸°Öˆ2
+L	java:S106+"+Replace this use of System.out by a logger.(ôÜ­Ôıÿÿÿÿ8§¸°Öˆ2
+G	java:S106,"+Replace this use of System.out by a logger.(ãèŞñ8§¸°Öˆ2
+F	java:S106-"+Replace this use of System.out by a logger.(á§ F8§¸°Öˆ2
+G	java:S106."+Replace this use of System.out by a logger.(ø¡à 8§¸°Öˆ2
+o
+java:S62043"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8¨¸°Öˆ2
+G	java:S1064"+Replace this use of System.out by a logger.(ªô–ƒ8©¸°Öˆ2
+L	java:S1068"+Replace this use of System.out by a logger.(÷Äßƒùÿÿÿÿ8©¸°Öˆ2
+G	java:S1069"+Replace this use of System.out by a logger.(©“õè8©¸°Öˆ2
+L	java:S106:"+Replace this use of System.out by a logger.(•Ï…éÿÿÿÿÿ8ª¸°Öˆ2
+L	java:S106;"+Replace this use of System.out by a logger.(”º¾ûÿÿÿÿ8ª¸°Öˆ2
+L	java:S106<"+Replace this use of System.out by a logger.(ş±‰…şÿÿÿÿ8ª¸°Öˆ2
+G	java:S106?"+Replace this use of System.out by a logger.(ûÊ¤´8ª¸°Öˆ2
+L	java:S106C"+Replace this use of System.out by a logger.(òşÚúøÿÿÿÿ8«¸°Öˆ2

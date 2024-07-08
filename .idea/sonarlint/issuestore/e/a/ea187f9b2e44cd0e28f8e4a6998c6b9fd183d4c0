@@ -1,0 +1,28 @@
+
+D
+java:S2189@""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Í³¸Öˆ2
+L	java:S106"+Replace this use of System.out by a logger.(Ş™ˆüÿÿÿÿ8Ğ³¸Öˆ2
+L	java:S106"+Replace this use of System.out by a logger.(é®ü†şÿÿÿÿ8Ñ³¸Öˆ2
+G	java:S106"+Replace this use of System.out by a logger.(¨ÉâÕ8Ñ³¸Öˆ2
+G	java:S106"+Replace this use of System.out by a logger.(èıä8Ñ³¸Öˆ2
+L	java:S106"+Replace this use of System.out by a logger.(˜æ¡ıÿÿÿÿ8Ñ³¸Öˆ2
+G	java:S106"+Replace this use of System.out by a logger.(ÔÎ8Ñ³¸Öˆ2
+L	java:S106"+Replace this use of System.out by a logger.(ïè·÷üÿÿÿÿ8Ò³¸Öˆ2
+L	java:S106"+Replace this use of System.out by a logger.(¯‹£ûÿÿÿÿ8Ò³¸Öˆ2
+L	java:S106 "+Replace this use of System.out by a logger.(©ÅÂŸûÿÿÿÿ8Ó³¸Öˆ2
+L	java:S106!"+Replace this use of System.out by a logger.(Óµíèıÿÿÿÿ8Ó³¸Öˆ2
+G	java:S106""+Replace this use of System.out by a logger.(“ÚºÌ8Ó³¸Öˆ2
+G	java:S106#"+Replace this use of System.out by a logger.(ÊŠ°œ8Ó³¸Öˆ2
+L	java:S106."+Replace this use of System.out by a logger.(™œˆ˜úÿÿÿÿ8Ô³¸Öˆ2
+G	java:S106/"+Replace this use of System.out by a logger.(›³ÇÊ8Ô³¸Öˆ2
+G	java:S1060"+Replace this use of System.out by a logger.(­Ñæ—8Ô³¸Öˆ2
+L	java:S1061"+Replace this use of System.out by a logger.(µØ©Ùúÿÿÿÿ8Ô³¸Öˆ2
+L	java:S1062"+Replace this use of System.out by a logger.(óı¡çúÿÿÿÿ8Ô³¸Öˆ2
+q
+java:S12154"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(˜ó¨“8Ô³¸Öˆ2
+G	java:S1065"+Replace this use of System.out by a logger.(¤‹ë¿8Õ³¸Öˆ2
+G	java:S1069"+Replace this use of System.out by a logger.(©æ¯á8Õ³¸Öˆ2
+G	java:S106:"+Replace this use of System.out by a logger.(¸‘¸÷8Õ³¸Öˆ2
+G	java:S106;"+Replace this use of System.out by a logger.(ŠÈ¡‹8Õ³¸Öˆ2
+L	java:S106<"+Replace this use of System.out by a logger.(‘ê‘»úÿÿÿÿ8Ö³¸Öˆ2
+G	java:S106D"+Replace this use of System.out by a logger.(–ı››8Ö³¸Öˆ2
