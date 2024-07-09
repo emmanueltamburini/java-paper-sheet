@@ -11,6 +11,7 @@ public class JavaMemoryManagementExample {
         stackMemory();
         garbageCollection();
         outOfMemoryError();
+        volatileKeyword();
     }
 
     private void heapMemory() {
@@ -66,6 +67,59 @@ public class JavaMemoryManagementExample {
             }
         } catch (OutOfMemoryError e) {
             System.out.println("Caught OutOfMemoryError: " + e.getMessage());
+        }
+    }
+
+    private void volatileKeyword() {
+        System.out.println("\n*********************** Volatile Keyword ***********************");
+        System.out.println("Explanation: Ensures that a variable is always read from and written to main memory, not from CPU cache.");
+        System.out.println("Pros: Provides thread safety for single variables without synchronization overhead.");
+        System.out.println("Cons: Doesn't solve all concurrency issues, can impact performance.");
+        System.out.println("Best used when: You need to ensure visibility of changes to a variable across threads.");
+
+        VolatileExample volatileExample = new VolatileExample();
+
+        // Start a reader thread
+        new Thread(() -> {
+            int localValue = 0;
+            while (localValue < 5) {
+                if (localValue != volatileExample.getSharedValue()) {
+                    System.out.println("Reader: value changed to " + volatileExample.getSharedValue());
+                    localValue = volatileExample.getSharedValue();
+                }
+            }
+        }).start();
+
+        // Start a writer thread
+        new Thread(() -> {
+            for (int i = 0; i <= 5; i++) {
+                volatileExample.setSharedValue(i);
+                System.out.println("Writer: changed value to " + i);
+                try {
+                    Thread.sleep(1000); // Sleep for 1 second
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+        }).start();
+
+        // Wait for threads to finish
+        try {
+            Thread.sleep(6000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+
+    static class VolatileExample {
+        private volatile int sharedValue = 0;
+
+        public int getSharedValue() {
+            return sharedValue;
+        }
+
+        public void setSharedValue(int newValue) {
+            this.sharedValue = newValue;
         }
     }
 }
