@@ -7,6 +7,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
+            clearScreen();
             System.out.println("Which program do you want to run?");
             System.out.println("0. Sandbox");
             System.out.println("1. Primitive Types Example");
@@ -104,6 +105,25 @@ public class Main {
                     scanner.close();
                     return;
             }
+            waitForKeyPress();
+            clearScreen();
+        }
+    }
+
+    public static void clearScreen() {
+        System.out.print("\033[H\033[2J");
+        System.out.flush();
+    }
+
+    public static void waitForKeyPress() {
+        System.out.println("Press Enter to continue...");
+        try {
+            System.in.read();
+            while (System.in.available() > 0) {
+                System.in.read(); // clear any other input
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
         }
     }
 }
